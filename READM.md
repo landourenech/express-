@@ -1,0 +1,1 @@
+L'API est fonctionnelle mais dans le cadre de la répatition du code en plusiers dossier : routes , controleurs et modèles. Il faut d'adapter le code en fonction de votre besion.
